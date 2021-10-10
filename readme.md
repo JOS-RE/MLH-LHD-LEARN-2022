@@ -2,5 +2,5 @@
 
 ## The team :
 
-> ## 🍁[Joshith Gopidi](https://github.com/jOS-RE/)
-> ## 🌿[Harsh Niture](https://github.com/harshniture)
+ ## 🍁[Joshith Gopidi](https://github.com/jOS-RE/)
+ ## 🌿[Harsh Niture](https://github.com/harshniture)
